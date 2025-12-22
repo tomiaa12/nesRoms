@@ -2,6 +2,8 @@
 
 [中文](#在线试玩) | [English](#online-play)
 
+![preview](https://github.com/tomiaa12/blog/raw/HEAD/src/vscodeExtension/RetroNES/resources/preview.png)
+
 ---
 
 RetroNES 是一款支持 NES（红白机）游戏模拟的插件，提供超过 400 种中文化的经典 ROM 游戏，支持在线试玩和下载。
