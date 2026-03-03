@@ -2,7 +2,7 @@
 
 [中文](#在线试玩) | [English](#online-play)
 
-![preview](https://github.com/tomiaa12/blog/raw/HEAD/src/vscodeExtension/RetroNES/resources/preview.png)
+![preview](https://github.com/tomiaa12/blog/raw/HEAD/extension/RetroNES/resources/preview.png)
 
 ---
 
